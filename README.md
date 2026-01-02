@@ -1,9 +1,9 @@
 <div align="center">
-</div>
 
-# 👋 Naitik Rahane
+  # 👋 Naitik Rahane
 
 **Crypto user → Builder → Systems Thinker**
+</div>
 <div align="center">
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=flat&logo=solidity)
 ![EVM](https://img.shields.io/badge/EVM-000?style=flat)
