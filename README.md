@@ -2,7 +2,7 @@
 
 # 👋 Naitik Rahane
 
-**Crypto user → Builder → Systems Thinker**\n
+**Crypto user → Builder → Systems Thinker**/n
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=flat&logo=solidity)
 ![EVM](https://img.shields.io/badge/EVM-000?style=flat)
 ![Web3](https://img.shields.io/badge/Web3-000?style=flat)
