@@ -2,7 +2,7 @@
 
   # 👋 Naitik Rahane
 
-**Crypto user → Builder → Systems Thinker**
+**User → Builder → Systems Thinker**
 </div>
 <div align="center">
 
