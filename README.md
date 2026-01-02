@@ -1,15 +1,16 @@
 <div align="center">
+</div>
 
 # 👋 Naitik Rahane
 
-**Crypto user → Builder → Systems Thinker**/n
+**Crypto user → Builder → Systems Thinker**
+<div align="center">
 ![Solidity](https://img.shields.io/badge/Solidity-000?style=flat&logo=solidity)
 ![EVM](https://img.shields.io/badge/EVM-000?style=flat)
 ![Web3](https://img.shields.io/badge/Web3-000?style=flat)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/SQL-000?style=flat&logo=postgresql)
-
 </div>
 
 ---
