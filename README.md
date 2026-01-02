@@ -32,7 +32,7 @@ Now actively building and experimenting in the **EVM / Web3 ecosystem**.
 ### 🔥 What I’m Building / Exploring
 
 - ⚙️ Smart contracts & EVM experiments  
-- 🔐 Non-custodial wallets (CLI & Android)  
+- 🔐 Non-custodial wallets (CLI,Hardware & Android)  
 - 🟣 Farcaster mini apps & on-chain games  
 - 💸 DeFi utilities (faucets, bridges, explorers)  
 - 🧰 Small tools that solve specific problems  
