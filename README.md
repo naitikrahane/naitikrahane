@@ -69,13 +69,6 @@ Growing as a **blockchain / EVM-focused engineer** by deeply understanding syste
 
 ---
 
-## 📊 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=naitikrahane&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naitikrahane&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🔗 Connect
 
 - 🟣 **Farcaster:** https://farcaster.xyz/naitikrahane  
