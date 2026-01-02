@@ -64,7 +64,7 @@ Growing as a **blockchain / EVM-focused engineer** by deeply understanding syste
 ### 🔗 Connect
 
 - 🟣 **Farcaster:** https://farcaster.xyz/naitikrahane  
-- 💻 **GitHub:** https://github.com/naitikrahane  
+- 🟣 **X:** https://x.com/Lucky012387
 
 ---
 
