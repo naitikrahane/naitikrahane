@@ -28,15 +28,6 @@ Now actively building and experimenting in the **EVM / Web3 ecosystem**.
 
 ---
 
-### 🧩 How I Think & Work
-
-- 🛠 Understand systems by breaking & tracing them  
-- 🔍 Focus on **core logic**, not surface-level features  
-- 🧪 Learn by building small, real tools  
-- 🧠 Curious about how protocols behave in practice  
-
----
-
 ### 🔥 What I’m Building / Exploring
 
 - ⚙️ Smart contracts & EVM experiments  
@@ -48,33 +39,18 @@ Now actively building and experimenting in the **EVM / Web3 ecosystem**.
 ---
 
 ### 🛠 Tech Stack
-
 **Blockchain**
 - Solidity · EVM · Base · OpenZeppelin  
-
 **Languages**
 - JavaScript · TypeScript · Python · SQL  
-
 **Systems**
 - Wallets · RPCs · CLI tools · Testnets  
-
 **Exploring**
 - Protocol design · Privacy & encrypted computation  
 
 ---
 
-### 🚀 Direction
 
-Growing as a **blockchain / EVM-focused engineer** by deeply understanding systems and building **useful, well-designed tools** around them.
-
----
-
-### 🔗 Connect
-
-- 🟣 **Farcaster:** https://farcaster.xyz/naitikrahane  
-- 🟣 **X:** https://x.com/Lucky012387
-
----
 
 <div align="center">
 
