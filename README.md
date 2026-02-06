@@ -1,7 +1,9 @@
-<p align="center">
-  <img src="https://github.com/naitikrahane/naitikrahane/blob/d539df029f153b9a8ad11eff922f2622c1bac103/IMG-20260206-WA0006.jpg" alt="banner" width="100%" />
-</p>
 <div align="center">
+  <img src="https://github.com/naitikrahane/naitikrahane/blob/d539df029f153b9a8ad11eff922f2622c1bac103/IMG-20260206-WA0006.jpg" width="100%" />
+  
+  <h1>👋 Naitik Rahane</h1>
+  <b>User → Builder → Systems Thinker</b>
+</div>
 
   # 👋 Naitik Rahane
 
