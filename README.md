@@ -15,9 +15,7 @@
 </div>
 
 ---
-<p align="center">
-  <img src="https://github.com/naitikrahane/naitikrahane/blob/d539df029f153b9a8ad11eff922f2622c1bac103/IMG-20260206-WA0006.jpg" width="80%" />
-</p>
+
 ### 🧠 About Me
 
 I approach software like a **debugger**.
